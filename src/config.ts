@@ -1,0 +1,1 @@
+export const JWT_TOKEN_PASSWORD= "123123@1212"
